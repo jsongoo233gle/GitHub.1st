@@ -1,8 +1,5 @@
 # github
 repository.1st
 
-Yarn
-
-node.js
-
-GoLang
+/path/to/sth
+/path/of/sth
